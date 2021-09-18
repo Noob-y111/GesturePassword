@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GesturePassword">
+        <attr name="gestureFillColor" format="color"/>
+        <attr name="gestureLineColor" format="color"/>
+    </declare-styleable>
+</resources>
